@@ -4,7 +4,7 @@ const mysqlDB = mysql.createPool({
   connectionLimit: 30,
   host: "127.0.0.1",
   user: "root",
-  password: "Lefirst@2020",
+  password: "",
   database: "todo_list",
 });
 
