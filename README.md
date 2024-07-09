@@ -6,7 +6,7 @@ require `node 16.14.0`
 <br>
 
 ### 1. Clone repository
-    git clone https://github.com/spd-dev-team/x-server.git
+    git clone [https://github.com/spd-dev-team/x-server.git](https://github.com/jojo1024/todo-list.git)
 
 
 ### 2. Install dependencies
